@@ -1,7 +1,7 @@
 package Day12_100DaysOfCode;
 
 
-public class Launch11 {
+ class Launch11 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub
