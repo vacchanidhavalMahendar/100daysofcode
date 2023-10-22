@@ -21,6 +21,7 @@ public class BinarySearch {
 
             if(key==array[midValue]){
                 System.out.println("Key" + key +"Found at Index" +midValue);
+                break;
             }
 
             else if(key<array[midValue]){
