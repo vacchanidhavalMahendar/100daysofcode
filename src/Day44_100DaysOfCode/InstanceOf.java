@@ -21,7 +21,7 @@ import java.util.ArrayList;
 
         }
 
-        else if(o instanceof  Customer)0;
+        else if(o instanceof  Customer);
 
 
     }
