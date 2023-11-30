@@ -1,3 +1,4 @@
+/*
 package Day45_100DaysOfCode_MultiThreading_1;
 
 package Day45_100DaysOfCode_MultiThreading_1;
@@ -29,3 +30,4 @@ public class MultiThreading2 {
     }
 }
 
+*/
